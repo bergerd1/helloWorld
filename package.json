@@ -1,0 +1,13 @@
+{
+  "name": "helloWorld",
+  "version": "0.0.1",
+  "description": "Basic Hello World app.",
+  "main": "server.js",
+  "dependencies" : {
+    "express" : "2.5.x",
+    "ejs" : "0.8.x"
+  },
+  "engines" : {
+    "node": "0.10.x"
+  }
+}
